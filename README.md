@@ -11,6 +11,6 @@ I'm Matthew, a BEWARE Postdoctoral Research Fellow at [UCLouvain](https://uclouv
 
 Please reach out to me via the email on my [personal website](https://ml-evs.science) if you are interested in:
 
-- Testing out or hosting a deployment of the [datalab](https://github.com/the-grey-group/datalab) software for your research group or company
-- Joining the MaRDA metadata extractors working group
+- Testing out or hosting a deployment of the [datalab](https://github.com/datalab-org/datalab) software for your research group or company
+- Joining the datatractor/MaRDA metadata extractors working group, or [MADICES community](https://github.com/MADICES/) for materials & chemistry RDM
 - Deploying your crystal structure data, or ingesting community data, with an OPTIMADE API
