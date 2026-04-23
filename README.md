@@ -1,4 +1,5 @@
-I'm Matthew, a Leverhulme Early Career Research Fellow at the [Yusuf Hamied Department of Chemistry, University of Cambridge](https://grey.group.ch.cam.ac.uk/group). I am broadly interested in accelerating materials discovery and design via machine learning, digital data management and open source scientific software.
+I'm Matthew, a Leverhulme Early Career Research Fellow in the [Grey Group](https://grey.group.ch.cam.ac.uk/group) within the Yusuf Hamied Department of Chemistry, University of Cambridge.
+I am broadly interested in accelerating materials discovery and design via machine learning, digital data management and open source scientific software.
 
 Please reach out to me via the email on my [personal website](https://ml-evs.science) if you are interested in:
 
